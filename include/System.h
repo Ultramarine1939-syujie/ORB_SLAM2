@@ -25,6 +25,8 @@
 #include<string>
 #include<thread>
 #include<opencv2/core/core.hpp>
+#include<unistd.h>
+#include<opencv2/imgcodecs/legacy/constants_c.h> 
 
 #include "Tracking.h"
 #include "FrameDrawer.h"
